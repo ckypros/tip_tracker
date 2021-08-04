@@ -1,0 +1,22 @@
+{
+  "name": "tips",
+  "version": "1.0.0",
+  "description": "Tip tracking app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckypros/tip_tracker.git"
+  },
+  "author": "Charles Kypros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckypros/tip_tracker/issues"
+  },
+  "homepage": "https://github.com/ckypros/tip_tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
